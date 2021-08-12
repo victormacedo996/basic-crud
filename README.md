@@ -28,7 +28,7 @@ Esse projeto foi criado com o objetivo de aprender mais sobre ReactJS e operaç�
 - FontAwesome
 - ReactJS
 
-#### Bacend
+#### Backend
 
 - JSON server
 
@@ -50,9 +50,14 @@ Como layout básico todas as páginas tem os seguintes componentes:
 - Campo de input para que o usuário possa digitar nome e email do usuário a ser cadastrado
 - Em caso das informações estarem corretas, ao clicar no botão salvar o nome e o email serão salvos no banco de dados
 
-![index](screenshot/pagina-de-cadastro.png)
+![página de cadastro](screenshot/pagina-de-cadastro.png)
 
 - Após a inserção do cadastro no banco de dados, a cadastro será exibido na mesma tela
 - Ao lado do cadastro do usuário, existem dois botões, o amarelo para realizar a atualização do cadastro e o vermelho para deletar o cadastro
 
-![index](screenshot/cadastrando.png)
+![cadastrando usuário](screenshot/cadastrando.png)
+
+#### Modelagem do banco de dados
+
+
+![banco de dados](screenshot/db.png)
